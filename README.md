@@ -9,6 +9,8 @@ We developed a packet sniffer application to capture IAT of packets. Packet snif
 ## Second Experiment: Crawdad Dataset
 In the second experiment, we tested the scheme with [Crawdad dataset](https://crawdad.org/gatech/fingerprinting/20140609). The proposed scheme achieved accuracy of 95.5\% for [GTID](https://crawdad.org/gatech/fingerprinting/20140609) that is 3\% higher than previous scheme \cite{gatech-fingerprinting-20140609} for 14 devices and 5 device types on isolated network while 40\% efficient in time to test a device fingerprint.
 
+![Crawdad Dataset](https://github.com/naneja/device-fingerprinting/blob/master/figs/dfp2.png)
+
 In the second experiment, we divided the dataset into three separate datasets
 
 ### D1-IsolatedNetworkPassiveDFP
