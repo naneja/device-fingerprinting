@@ -4,6 +4,8 @@ Device Fingerprinting (DFP) is a technique to identify devices using Inter-Arriv
 ## First Experiment: Raspberry Pi
 We developed a packet sniffer application to capture IAT of packets. Packet sniffer application was installed on Raspberry pi that was configured to work as router. We connceted two devices iPad4 and iPhone 7 Plus to the router and created IAT graphs for these two devices. Our scheme based on Convolution Neural Network (CNN) was able to identify the devices with accuracy of 86.7\%.
 
+![DFP on Raspberry Pi](https://github.com/naneja/device-fingerprinting/blob/master/figs/DM2.png)
+
 ## Second Experiment: Crawdad Dataset
 In the second experiment, we tested the scheme with [Crawdad dataset](https://crawdad.org/gatech/fingerprinting/20140609). The proposed scheme achieved accuracy of 95.5\% for [GTID](https://crawdad.org/gatech/fingerprinting/20140609) that is 3\% higher than previous scheme \cite{gatech-fingerprinting-20140609} for 14 devices and 5 device types on isolated network while 40\% efficient in time to test a device fingerprint.
 
