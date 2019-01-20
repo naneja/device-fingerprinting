@@ -11,17 +11,6 @@ In the second experiment, we tested the scheme with [Crawdad dataset](https://cr
 
 ![Crawdad Dataset](https://github.com/naneja/device-fingerprinting/blob/master/figs/dfp2.png)
 
-In the second experiment, we divided the dataset into three separate datasets
-
-### D1-IsolatedNetworkPassiveDFP
-
-
-### D21-CampusNetworkActiveDFP
-
-
-### D22-CampusNetworkPassiveDFP
-
-
 
 ## Feedback
 Please submit your feedback to [Dr. Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja). Please write an email (nagender.aneja@ubd.edu.bn) if you are interested to impement the model in a mobile app or web app. We welcome people and organization who can provide more data on plants from different countries to join this project. 
